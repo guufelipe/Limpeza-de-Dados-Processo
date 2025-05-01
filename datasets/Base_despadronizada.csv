@@ -1,0 +1,101 @@
+id_aluno,nome,idade,serie,sexo,nota_matematica,nota_portugues,frequencia
+1,Pedro Lucas Vieira,11,6º Ano,Masculino,"4,1","3,8",63.7
+2,Emanuelly Moreira,10,4º Ano,fem,"8,4",7.8,64.6
+3,Murilo Nogueira,13,9º Ano,M,8.1,"6,5",68.4
+4,Helena Oliveira,14,9º Ano,F,3.7,3.4,65.4
+5,Alice Ribeiro,15,9º Ano,fem,2.7,"8,7",89.8
+6,Lucas Campos,12,7º Ano,M,8.9,4.1,76.7
+7,Pedro Cavalcanti,10,6º Ano,Masculino,"7,4","6,6",67.8
+8,Bianca Pires,9,4º Ano,fem,"0,2",9.3,61.9
+9,Anthony da Mota,10,5º Ano,Masculino,"3,6","8,3",64.4
+10,Nicole Gomes,13,8º Ano,Feminino,5.7,"3,6",83.3
+11,Kevin Moraes,8,3º Ano,M,2.9,"0,3",91.1
+12,Lavínia Costa,8,4º Ano,Feminino,5,8.1,64.1
+13,Lucca Nascimento,6,1º Ano,M,"0,9",7.4,81.7
+14,Luiz Gustavo Carvalho,7,2º Ano,Masculino,"6,8","6,5",62.5
+15,Miguel Teixeira,10,4º Ano,masc,"7,7",8.6,93.4
+16,Pietro Azevedo,11,6º Ano,M,0.8,6.8,84.0
+17,Larissa Araújo,14,8º Ano,fem,3.1,8.0,94.8
+18,Laura Correia,13,9º Ano,fem,2.1,3.5,62.3
+19,Mariana Barbosa,5,1º Ano,fem,9,"8,5",82.9
+20,Diego Moura,6,2º Ano,M,"6,8","1,6",77.9
+21,Guilherme Ramos,9,5º Ano,M,2.8,0.9,91.9
+22,Ana Nogueira,9,3º Ano,F,8.2,7.8,83.5
+23,Lorena Azevedo,10,5º Ano,fem,3.4,1.7,81.8
+24,Vitor Hugo Souza,12,8º Ano,masc,2.9,"1,8",84.0
+25,Alícia Pereira,11,6º Ano,F,"0,2","7,2",68.0
+26,Noah Nogueira,9,3º Ano,M,0.6,5.0,80.5
+27,Luigi Silva,12,6º Ano,M,"0,8",8.3,95.2
+28,André Duarte,9,3º Ano,masc,"2,2",2.9,69.0
+29,Augusto Dias,6,2º Ano,M,"8,2",3.3,66.7
+30,Stella Correia,8,3º Ano,F,"4,3",4.0,90.2
+31,Caroline Barbosa,14,9º Ano,fem,4.1,"5,8",76.5
+32,Milena da Rosa,11,6º Ano,Feminino,"3,5","1,2",96.5
+33,Carolina da Mata,13,7º Ano,F,5.2,0.9,75.9
+34,Renan Novaes,10,6º Ano,M,5.1,1.3,99.1
+35,Pedro Miguel Azevedo,9,3º Ano,masc,"9,6","0,1",66.4
+36,Stella Peixoto,11,5º Ano,F,1,"0,7",62.4
+37,Rafael Pereira,14,9º Ano,masc,7.4,7.1,61.5
+38,João Pedro Rodrigues,11,5º Ano,masc,"9,6","0,4",85.7
+39,Yago Freitas,9,4º Ano,M,"9,6","7,3",73.7
+40,Nathan Farias,8,4º Ano,M,"2,7",9.7,67.5
+41,Fernando Pinto,8,3º Ano,Masculino,"9,5",6.5,93.3
+42,Sofia Gomes,5,1º Ano,Feminino,8.5,5.2,86.9
+43,Emanuel Silveira,9,4º Ano,Masculino,0.0,"3,9",62.9
+44,Nina Moreira,10,4º Ano,F,6.9,2.3,66.0
+45,Emanuelly Viana,14,8º Ano,Feminino,4.5,"6,9",61.1
+46,Helena Almeida,7,3º Ano,Feminino,7.6,"4,8",60.8
+47,Vitória Martins,10,6º Ano,fem,"5,5",2.5,65.0
+48,Henrique Santos,13,9º Ano,M,7.1,2.4,77.4
+49,Caio Costela,13,8º Ano,masc,6.2,4.9,71.1
+50,Rodrigo Caldeira,7,2º Ano,masc,2.5,3.3,89.0
+51,Marcos Vinicius Lopes,6,2º Ano,masc,9.9,5.1,78.4
+52,Enzo Aragão,8,2º Ano,M,"3,6","4,8",97.2
+53,Leandro Peixoto,7,2º Ano,masc,"4,9","5,9",94.8
+54,Isabelly Novaes,11,6º Ano,F,"8,1",7,69.4
+55,Gustavo Ribeiro,12,7º Ano,masc,"7,7","0,2",87.8
+56,João Lopes,10,6º Ano,Masculino,7.4,5.1,63.3
+57,Maria Sophia Cardoso,7,3º Ano,Feminino,2.7,"1,3",86.2
+58,Natália Teixeira,13,9º Ano,F,"3,2",3.1,74.3
+59,Lívia Alves,7,3º Ano,Feminino,1.7,1.2,78.9
+60,Alana da Rosa,6,2º Ano,Feminino,"5,8",5.7,74.2
+61,Alice Ferreira,9,3º Ano,fem,"6,1",3.7,72.4
+62,Evelyn Pinto,7,1º Ano,F,"2,2",1.0,64.4
+63,Renan Nogueira,13,9º Ano,masc,10,"5,1",93.9
+64,Maria Cecília Peixoto,12,7º Ano,fem,5.3,"8,9",80.6
+65,Maysa Aragão,12,8º Ano,fem,"1,6",0.5,88.8
+66,Laís Farias,15,9º Ano,F,4.6,"2,5",98.5
+67,Manuela da Cruz,9,3º Ano,fem,4.2,4,60.3
+68,Daniela Costela,11,6º Ano,F,"4,7",6.4,79.7
+69,Kamilly Freitas,12,6º Ano,fem,0.1,"3,6",71.5
+70,Ana Vitória Almeida,10,6º Ano,F,9.0,1.1,85.1
+71,Pietro Almeida,12,7º Ano,Masculino,"6,3",9.0,91.2
+72,Júlia Cardoso,10,6º Ano,fem,"8,2",6.2,68.6
+73,Marcela das Neves,13,9º Ano,fem,"9,7","0,7",77.9
+74,João Miguel Moura,7,2º Ano,masc,"2,3","9,1",85.3
+75,Maria Luiza Silva,10,6º Ano,fem,"5,6",8.1,98.8
+76,Mirella Viana,11,5º Ano,fem,6.2,9,87.4
+77,Ana Carolina Farias,6,2º Ano,Feminino,1.8,8.6,97.9
+78,Isabelly Nogueira,8,3º Ano,Feminino,6,3.9,73.6
+79,Emilly Pereira,10,5º Ano,Feminino,"1,9",1.8,68.4
+80,Juliana Lima,14,9º Ano,fem,0.5,"6,7",82.5
+81,Maria Luiza Souza,9,5º Ano,Feminino,"4,1","4,4",77.4
+82,Mirella Viana,11,6º Ano,F,"5,3",8.0,90.9
+83,Heloísa Mendes,14,9º Ano,fem,"2,6","5,5",62.2
+84,Levi Azevedo,7,3º Ano,M,4.5,"8,3",68.6
+85,Leonardo Nunes,15,9º Ano,M,"1,3",5.6,94.2
+86,Felipe Teixeira,12,8º Ano,masc,3.5,1.1,61.4
+87,Daniela Aragão,10,5º Ano,Feminino,0.5,8.3,84.1
+88,Vinicius Fogaça,8,3º Ano,M,"3,9",2.9,82.4
+89,Daniela Rezende,6,2º Ano,fem,5.6,"3,1",90.0
+90,Luiz Fernando da Luz,15,9º Ano,M,"0,9",0.0,81.5
+91,Davi Luiz Vieira,13,8º Ano,M,8.9,3.0,82.7
+92,Samuel Campos,9,4º Ano,M,7.3,"4,9",72.5
+93,Agatha Campos,12,7º Ano,F,8.2,0.3,89.1
+94,Bernardo Peixoto,7,3º Ano,Masculino,"9,7",1.9,75.8
+95,Pedro Lucas da Mata,14,9º Ano,Masculino,7.1,1.2,86.5
+96,Julia das Neves,15,9º Ano,F,"2,9",5.3,78.1
+97,João Ramos,6,1º Ano,M,"9,9",7.1,71.8
+98,Clarice da Mota,8,3º Ano,Feminino,"3,2","3,5",99.4
+99,Lucas Gabriel da Luz,11,5º Ano,M,4.5,"1,2",63.6
+100,Ana Sophia Nunes,8,3º Ano,F,2.2,5.0,60.7
