@@ -17,3 +17,8 @@
   - 'dataset_padronizado.csv': Arquivo gerado para armazenar os dados depois da padronização e limpeza.
   - 'Limpeza_Dados.py': Script Python que realiza a leitura, limpeza e padronização dos dados.
   - 'README.md': Este arquivo.
+
+# Tecnologias Utilizadas
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+  - **Python**: A linguagem principal utilizada.
+  - **pandas**: Biblioteca para manipulação e análise de dados, utilizada para o processamento e limpeza dos dados.
