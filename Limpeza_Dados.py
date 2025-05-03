@@ -24,7 +24,7 @@ dataset_padronizado['sexo'] = dataset_padronizado['sexo'].replace({
 
 dataset_padronizado['nota_matematica'] = dataset_padronizado['nota_matematica'].astype(str).str.replace(',', '.').astype(float)
 dataset_padronizado['nota_portugues'] = dataset_padronizado['nota_portugues'].astype(str).str.replace(',', '.').astype(float)
-dataset_padronizado.to_csv('base_padronizada.csv', sep=';', decimal=',', index=False)
+
 
 
 dataset_padronizado['media'] = (
@@ -34,6 +34,7 @@ dataset_padronizado['media'] = (
 ) / 3
 
 dataset_padronizado['aprovado'] = dataset_padronizado['media'].apply(verificar_aprovacao)
-dataset_padronizado['aprovado'] = dataset_padronizado['media'].apply(verificar_aprovacao)
+
+dataset_padronizado.to_csv('base_padronizada.csv', sep=';', decimal=',', index=False)
 
 print(dataset_padronizado.head())
